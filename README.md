@@ -1,5 +1,7 @@
 # Freezing prototypes
 
+![Stage 1](https://badges.aleen42.com/src/tc39_2.svg)
+
 ## Current status
 
 Stage 1 - exporing the shape of the design space.
